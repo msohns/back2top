@@ -30,7 +30,6 @@
 			});
 
 			$(this).html(config.content);
-			s
 
 			if (config.icon) {
 				$(this).prepend('<b>&#x21e7;</b>&nbsp;');
