@@ -38,7 +38,7 @@
 			$(this).click(function(event) {
 				$('html, body').animate({
 					scrollTop: 0
-				}, config.speed);
+				}, config.speed,'swing');
 			});
 
 			$(window).scroll(function() {
