@@ -24,6 +24,17 @@ Then just call
 ```
 and you are all set.
 
+Or if you need more options, call it like this.
+
+```javascript
+	$('#backTop').back2top({
+		'speed':1000, 
+		'fadeSpeed': 200,
+		'content' : 'Custom Text',
+		'icon' : true
+	});
+```
+
 Options 
 =========
 
