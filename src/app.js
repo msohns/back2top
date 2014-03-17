@@ -4,5 +4,6 @@ $(document).ready(function() {
 		'fadeSpeed': 200,
 		'content' : 'Custom Text',
 		'icon' : true
+		test
 	});
 });
