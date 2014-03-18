@@ -47,8 +47,8 @@ Options
 Themes
 =========
 
-![alt tag](https://raw.github.com/msohns/back2top/tree/master/themes/Theme-1.png)
+![alt tag](https://github.com/msohns/back2top/tree/master/themes/Theme-1.png)
 
-![alt tag](https://raw.github.com/msohns/back2top/tree/master/themes/Theme-2.png)
+![alt tag](https://github.com/msohns/back2top/tree/master/themes/Theme-2.png)
 
-![alt tag](https://raw.github.com/msohns/back2top/tree/master/themes/Theme-3.png)
+![alt tag](https://github.com/msohns/back2top/tree/master/themes/Theme-3.png)
