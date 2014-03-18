@@ -31,7 +31,8 @@ Or if you need more options, call it like this.
 		'speed':1000, 
 		'fadeSpeed': 200,
 		'content' : 'Custom Text',
-		'icon' : true
+		'icon' : true,
+        'theme' : 1
 	});
 ```
 
@@ -42,3 +43,12 @@ Options
 - fadeSpeed : Set the speed of the FadeIn and FadeOut of the Button
 - icon (true / flase) : Set to True to display a small up arrow
 - content : change the displayed text. Displays "Back to top" if nothing else is set.
+
+Themes
+=========
+
+![alt tag](https://raw.github.com/msohns/back2top/tree/master/themes/Theme-1.png)
+
+![alt tag](https://raw.github.com/msohns/back2top/tree/master/themes/Theme-2.png)
+
+![alt tag](https://raw.github.com/msohns/back2top/tree/master/themes/Theme-3.png)
