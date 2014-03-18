@@ -43,12 +43,9 @@ Options
 - fadeSpeed : Set the speed of the FadeIn and FadeOut of the Button
 - icon (true / flase) : Set to True to display a small up arrow
 - content : change the displayed text. Displays "Back to top" if nothing else is set.
+- theme : choose between default themes
 
 Themes
 =========
 
-![alt tag](https://raw.github.com/msohns/back2top/tree/master/themes/Theme-1.png)
-
-![alt tag](https://raw.github.com/msohns/back2top/tree/master/themes/Theme-2.png)
-
-![alt tag](https://raw.github.com/msohns/back2top/tree/master/themes/Theme-3.png)
+please see the themes folder
